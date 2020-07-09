@@ -1,1 +1,1 @@
-"# Algorithmic-Digital-Marketing" 
+"# Algorithmic-Digital-Marketing Projects" 
